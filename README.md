@@ -26,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/0206-reverse-linked-list) |
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/0136-single-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
