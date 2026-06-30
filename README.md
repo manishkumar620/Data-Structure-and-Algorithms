@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/0136-single-number) |
+| [0283-move-zeroes](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Bit Manipulation
 |  |
