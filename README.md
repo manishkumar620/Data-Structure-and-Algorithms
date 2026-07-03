@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/0160-intersection-of-two-linked-lists) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/0283-move-zeroes) |
