@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -69,4 +71,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/0008-string-to-integer-atoi) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
