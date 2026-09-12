@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/0008-string-to-integer-atoi) |
+| [0796-rotate-string](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/0796-rotate-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -144,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/0509-fibonacci-number) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
