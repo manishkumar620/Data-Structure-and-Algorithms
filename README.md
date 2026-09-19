@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/0229-majority-element-ii) |
+| [1207-unique-number-of-occurrences](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/1207-unique-number-of-occurrences) |
 ## Linked List
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/0704-binary-search) |
+| [1207-unique-number-of-occurrences](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/1207-unique-number-of-occurrences) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
