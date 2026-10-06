@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Recursion
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/0704-binary-search) |
+| [0977-squares-of-a-sorted-array](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/1207-unique-number-of-occurrences) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/0229-majority-element-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/manishkumar620/data-structure-and-algorithms/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
